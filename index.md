@@ -25,7 +25,7 @@ Follow these 20 easy steps to set up your Cornix bot and start trading automatic
    *“Follow signals from your favorite groups or our marketplace’s experts, executing trades automatically.”*
 
 8. **Select the Appropriate Signals Group:**  
-   In the “Signals Group” field, choose:  
+   In the “**Signals Group**” field, choose:  
    **“☠️ Skelisul’s cluster ☠️”**
 
 9. **Choose “Risk Percentage” for Amount Type:**  
