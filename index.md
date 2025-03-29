@@ -15,7 +15,7 @@ Follow these 20 easy steps to set up your Cornix bot and start trading automatic
    Using your mobile exchange app, connect Cornix with your exchange API directly via Telegram. No password is required, ensuring a seamless, secure connection.
 
 5. **Select “Signals Bots” as the Bot Type:**  
-   In the bot creation process, choose “Signals Bots” to automate trade execution based on expert signals.
+   In the bot creation process, choose “**Signals Bots**” to automate trade execution based on expert signals.
 
 6. **Click on the “+” Sign:**  
    Initiate the creation of a new bot by clicking the plus (**“+”**) icon.
