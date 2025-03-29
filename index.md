@@ -38,7 +38,7 @@ Follow these 20 easy steps to set up your Cornix bot and start trading automatic
     Click on “**Symbols**” after choosing your exchange’s trading futures account.
 
 12. **Choose the Trading Pair:**  
-    Select **BTC/USDT** as your trading pair.
+    Select **BTC/USDT** as your trading pair and "**SHORT**" only.
 
 13. **Configure Leverage Settings:**  
     Under the “**General**” Tab, click on “**Personal**” for leverage settings. Then, go to **BTC/USDT**, choose Margin Type “**Personal**” as “**Cross**”, set the Multiplier to “**Personal**” as exactly **11x**, and press “**Apply**” then “**OK**”.
